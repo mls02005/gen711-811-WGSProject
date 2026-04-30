@@ -1,5 +1,8 @@
 #!/bin/bash
 
+## replace with the qiime2 environment youve been using 
+conda activate qiime2-amplicon-2026.1
+
 primer="16s_V4-V5"
 projname="YOURPROJ_${primer}"
 
